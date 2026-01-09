@@ -1,4 +1,4 @@
-How to Download and Install ESET NOD32 with License Key
+How to Install ESET NOD32 (Official Guide)
 =======================================================
 
 `Get Started with Eset <https://esethelpkeys.readthedocs.io/en/latest/>`_

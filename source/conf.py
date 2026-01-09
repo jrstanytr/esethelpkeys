@@ -7,8 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "esethelpkeys Documentation"
-copyright = '© 2026 esethelpkeys. All Rights Reserved.
-'
+copyright = '© 2026 esethelpkeys. All Rights Reserved.'
 author = 'jrstanytr'
 release = '1.0'
 
